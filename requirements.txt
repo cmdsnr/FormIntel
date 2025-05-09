@@ -1,0 +1,8 @@
+flask
+pytesseract
+Pillow
+tensorflow
+transformers
+scikit-learn
+tf-keras
+torch
