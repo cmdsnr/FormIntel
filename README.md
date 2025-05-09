@@ -1,4 +1,4 @@
-# 🧠 FormIntel — AI-Powered Document Classification and Summarization
+# 🧠 FormIntel - AI-Powered Document Classification and Summarization
 
 FormIntel is a full-stack document intelligence tool that uses OCR, NLP, and Machine Learning to:
 - Extract text from uploaded document images,
